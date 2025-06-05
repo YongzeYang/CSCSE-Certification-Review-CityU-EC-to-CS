@@ -94,7 +94,7 @@
 
 专业证明样例：
 
-![专业相似证明样例](./certificate_by_cityu_cs.png)
+![专业相似证明样例](./certificate_by_cityu_cs.jpg)
 
 ---
 
